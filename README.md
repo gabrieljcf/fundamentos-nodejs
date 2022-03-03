@@ -4,7 +4,7 @@
   <!-- <a href="https://01conceitosnodejs.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">01 Conceitos Nodejs</h1>
+<h1 align="center">Nodejs concepts</h1>
 
 <p align="center">
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/01-conceitos-nodejs?color=56BEB8" /> -->
