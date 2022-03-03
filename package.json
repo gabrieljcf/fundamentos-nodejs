@@ -1,8 +1,11 @@
 {
   "name": "01-conceitos-nodejs",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
   "dependencies": {
     "express": "^4.17.3"
   },
